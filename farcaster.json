@@ -1,23 +1,37 @@
 {
-  "name": "Far2048",
-  "subtitle": "Play. Merge. Win.",
-  "description": "Far2048 brings the classic 2048 puzzle to Farcaster — merge tiles, climb the leaderboard, and earn rewards. Simple to play, hard to master!",
-  "primaryCategory": "games",
-  "iconUrl": "https://far2048-beta.vercel.app/icon.png",
-  "screenshotUrls": [
-    "https://far2048-beta.vercel.app/screenshot1.png"
-  ],
-  "imageUrl": "https://far2048-beta.vercel.app/image.png",
-  "heroImageUrl": "https://far2048-beta.vercel.app/hero.png",
-  "splashImageUrl": "https://far2048-beta.vercel.app/splash.png",
-  "splashBackgroundColor": "#6200EA",
-  "tags": ["game", "puzzle", "web3", "farcaster", "onchain"],
-  "tagline": "Merge tiles and win",
-  "buttonTitle": "Play Now",
-  "ogTitle": "Far2048 – Onchain 2048 Game",
-  "ogDescription": "Play the classic 2048 with a Farcaster twist — merge tiles, top the leaderboard!",
-  "ogImageUrl": "https://far2048-beta.vercel.app/og-image.png",
-  "castShareUrl": "https://warpcast.com/~/compose?text=I+just+played+Far2048!+Can+you+beat+my+score?+https%3A%2F%2Ffar2048-beta.vercel.app",
-  "homeUrl": "https://far2048-beta.vercel.app",
-  "webhookUrl": "https://far2048-beta.vercel.app/api/webhook"
+  "frame": {
+    "name": "Far2048",
+    "version": "1",
+    "iconUrl": "https://far2048-beta.vercel.app/icon.png",
+    "homeUrl": "https://far2048-beta.vercel.app",
+    "imageUrl": "https://far2048-beta.vercel.app/image.png",
+    "buttonTitle": "Play Now",
+    "splashImageUrl": "https://far2048-beta.vercel.app/splash.png",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://far2048-beta.vercel.app/api/webhook",
+    "subtitle": "Play. Merge. Win.",
+    "description": "Far2048 brings the classic 2048 puzzle to Farcaster — merge tiles, climb the leaderboard, and earn rewards. Simple to play, hard to master!",
+    "primaryCategory": "games",
+    "screenshotUrls": [
+      "https://far2048-beta.vercel.app/screenshot1.png"
+    ],
+    "heroImageUrl": "https://far2048-beta.vercel.app/hero.png",
+    "tags": [
+      "game",
+      "puzzle",
+      "web3",
+      "farcaster",
+      "onchain"
+    ],
+    "tagline": "Merge tiles and win",
+    "ogTitle": "Far2048 – Onchain 2048 Game",
+    "ogDescription": "Play the classic 2048 with a Farcaster twist — merge tiles, top the leaderboard!",
+    "ogImageUrl": "https://far2048-beta.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=I+just+played+Far2048!+Can+you+beat+my+score?+https%3A%2F%2Ffar2048-beta.vercel.app"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI2ODI3MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweGMyOTE5QkRkNUFlRTdDMTI2Y2M4ZjIyZTM3ZEVCZTE4NTAzQjBmMEIifQ",
+    "payload": "eyJkb21haW4iOiJmYXIyMDQ4LWJldGEudmVyY2VsLmFwcCJ9",
+    "signature": "Wo83AubxEpaQvWSD44l2hVAYL26KhGqmWv59GDcuzlFtJRmlbtcK8GYIUnHSAZN7WJdMy78Q+HjZ/t4UtK4juhw="
+  }
 }
