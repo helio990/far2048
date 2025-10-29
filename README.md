@@ -6,7 +6,7 @@ A classic 2048 puzzle game built as a Farcaster Mini App on Base mainnet with a 
 
 - 🎮 Classic 2048 gameplay with smooth animations
 - 💜 Purple and white neon-themed UI with glowing borders
-- 💰 0.1 ETH entry fee payment system on Base
+- 💰 0.00001 ETH entry fee payment system on Base
 - 🔗 Farcaster wallet integration (no wallet selection needed)
 - 📱 Share your score directly to Farcaster
 - ⚡ Built with React, TypeScript, Vite, and Wagmi
