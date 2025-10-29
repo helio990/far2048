@@ -1,8 +1,8 @@
 {
   "name": "Far2048",
   "version": "1.0.0",
-  "iconUrl": "https://your-domain.vercel.app/favicon.ico",
-  "splashImageUrl": "https://your-domain.vercel.app/splash.png",
+  "iconUrl": "far2048-beta.vercel.app//favicon.ico",
+  "splashImageUrl": "far2048-beta.vercel.app//splash.png",
   "splashBackgroundColor": "#1a0b2e",
-  "homeUrl": "https://your-domain.vercel.app"
+  "homeUrl": "far2048-beta.vercel.app/"
 }
